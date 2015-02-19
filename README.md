@@ -1,2 +1,3 @@
-# reinier
-Github Pages site
+# reinier.github.io
+
+Some information about Reinier Ladan
